@@ -1,4 +1,4 @@
-### Olá, Eu sou o Daniel! 👋 
+### Olá, Eu sou o Daniel! 👋    
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mendes-507431232/)
@@ -15,4 +15,10 @@
 <img alt="imagem javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="imagem reactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="imagem nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+</div><br><br>
+
+𝐎 𝐞𝐧𝐭𝐮𝐬𝐢𝐚𝐬𝐦𝐨 𝐞 𝐚 𝐦𝐚𝐢𝐨𝐫 𝐟𝐨𝐫ç𝐚 𝐝𝐚 𝐚𝐥𝐦𝐚. 𝐂𝐨𝐧𝐬𝐞𝐫𝐯𝐚-𝐨 𝐞 𝐧𝐮𝐧𝐜𝐚 𝐭𝐞 𝐟𝐚𝐥𝐭𝐚𝐫𝐚 𝐩𝐨𝐝𝐞𝐫 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐬𝐞𝐠𝐮𝐢𝐫𝐞𝐬 𝐨 𝐪𝐮𝐞 𝐝𝐞𝐬𝐞𝐣𝐚𝐬.<br><br>
+𝐍𝐚𝐩𝐨𝐥𝐞𝐨𝐧 𝐇𝐢𝐥𝐥
+
+
+
