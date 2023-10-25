@@ -1,34 +1,49 @@
-###
-Hi, I'm Daniel! 👋    
+<h1 align="center">
+    Olá, sou Daniel Barbosa!👋<br> 
+    Bem vindo ao meu perfil  
+</h1>
 
+## 🔥 Sobre mim:
+
+Tenho 21 anos, Mineiro de Montes Claros e sou Desenvolvedor Front-end 
+
+- 👨‍💻 Aprendendo e aprimorando minhas habilidades
+
+<hr>
+
+### Tecnologias ⚡
+
+<p>Algumas das tecnologias que utilizo:</p>
+
+<div> 
+
+- Front end
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,vite,materialui)](https://skillicons.dev)
+
+- Back end 
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,postgres,sequelize,figma&theme=dark)](https://skillicons.dev)
+
+- Outras ferramentas 
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,stackoverflow,vscode,figma&theme=dark)](https://skillicons.dev)
+
+
+![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMendess&show_icons=true&theme=radical) 
+
+</div><br>
+
+### Deseja falar comigo?
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barbos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.danielmendess.dev@gmail.com)
 
-### 👨🏻‍💻 Desenvolvedor Web Front-end
+<br>
 
-![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMendess&show_icons=true&theme=radical) 
-### Tecnologias que utilizo no meu dia!
-<hr>
-<div> 
-<img alt="imagem html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="imagem css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="imagem javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img alt="imagem reactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-<img alt="imagem nodeJS" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div><br><br>
-
-𝐎 𝐞𝐧𝐭𝐮𝐬𝐢𝐚𝐬𝐦𝐨 𝐞 𝐚 𝐦𝐚𝐢𝐨𝐫 𝐟𝐨𝐫ç𝐚 𝐝𝐚 𝐚𝐥𝐦𝐚. 𝐂𝐨𝐧𝐬𝐞𝐫𝐯𝐚-𝐨 𝐞 𝐧𝐮𝐧𝐜𝐚 𝐭𝐞 𝐟𝐚𝐥𝐭𝐚𝐫á 𝐩𝐨𝐝𝐞𝐫 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐬𝐞𝐠𝐮𝐢𝐫𝐞𝐬 𝐨 𝐪𝐮𝐞 𝐝𝐞𝐬𝐞𝐣𝐚𝐬.<br><br>
-𝐍𝐚𝐩𝐨𝐥𝐞𝐨𝐧 𝐇𝐢𝐥𝐥
+💭 𝐎 𝐞𝐧𝐭𝐮𝐬𝐢𝐚𝐬𝐦𝐨 𝐞 𝐚 𝐦𝐚𝐢𝐨𝐫 𝐟𝐨𝐫ç𝐚 𝐝𝐚 𝐚𝐥𝐦𝐚. 𝐂𝐨𝐧𝐬𝐞𝐫𝐯𝐚-𝐨 𝐞 𝐧𝐮𝐧𝐜𝐚 𝐭𝐞 𝐟𝐚𝐥𝐭𝐚𝐫á 𝐩𝐨𝐝𝐞𝐫 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐬𝐞𝐠𝐮𝐢𝐫𝐞𝐬 𝐨 𝐪𝐮𝐞 𝐝𝐞𝐬𝐞𝐣𝐚𝐬.<br>
+<strong>𝐍𝐚𝐩𝐨𝐥𝐞𝐨𝐧 𝐇𝐢𝐥𝐥</strong>
 
 
 
