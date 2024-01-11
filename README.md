@@ -5,7 +5,7 @@
 
 ## 🔥 Sobre mim:
 
-Tenho 21 anos, Mineiro de Montes Claros e sou Desenvolvedor Front-end 
+Tenho 21 anos, Mineiro de Montes Claros e sou Desenvolvedor Front-end e tenho experências com Bakc-end
 
 - 👨‍💻 Aprendendo e aprimorando minhas habilidades
 
