@@ -1,44 +1,33 @@
-<h1 align="center">
-    Olá, sou Daniel Barbosa!👋<br> 
-    Bem vindo ao meu perfil  
-</h1>
+<h2 align="center">
+    Olá, meu nome é Daniel Barbosa!
+</h2>
 
-## 🔥 Sobre mim:
 
-Tenho 21 anos, Mineiro de Montes Claros e sou Desenvolvedor Front-end e tenho experências com Back-end também
+<p> <strong>Desenvolvedor front-end</strong> apaixonado por criar experiências web incríveis usando JavaScript e React, com uma pitada de estilo através do Styled Components. Além disso, tenho experiência em desenvolvimento de APIs, criando CRUDs eficientes com Express e Fastify.</p>
 
-- 👨‍💻 Aprendendo e aprimorando minhas habilidades
-
-<hr>
-
-### Tecnologias ⚡
-
-<p>Algumas das tecnologias que utilizo:</p>
-
-<div> 
-
-- Front end
+### Tecnologias e Ferramentas ⚡
+<div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,vite,materialui)](https://skillicons.dev)
 
-- Back end 
+- Outros
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,postgres,sequelize,figma&theme=dark)](https://skillicons.dev)
-
-- Outras ferramentas 
-
-[![My Skills](https://skillicons.dev/icons?i=vercel,stackoverflow,vscode,figma&theme=dark)](https://skillicons.dev)
 
 
 ![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMendess&show_icons=true&theme=radical) 
 
 </div><br>
 
-### Deseja falar comigo?
+## Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barbos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.danielmendess.dev@gmail.com)
+
+<br>
+
+<p>Fique à vontade para explorar meus repositórios e entre em contato caso tenha alguma dúvida ou queira colaborar em algum projeto!</p>
 
 <br>
 
