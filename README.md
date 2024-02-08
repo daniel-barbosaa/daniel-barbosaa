@@ -8,7 +8,11 @@
 ### Tecnologias e Ferramentas ⚡
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,vite,materialui)](https://skillicons.dev)
+- Javascript
+- React
+- Styled Components
+- Material UI
+ <br>
 
 - Outros
 
