@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,postgres,sequelize,figma&theme=dark)](https://skillicons.dev)
 
 
-![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMendess&show_icons=true&theme=radical) 
+![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-barbosaa&show_icons=true&theme=radical) 
 
 </div><br>
 
