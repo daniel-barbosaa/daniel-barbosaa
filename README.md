@@ -5,6 +5,8 @@
 
 <p> <strong>Desenvolvedor front-end</strong> apaixonado por criar experiências web incríveis usando JavaScript e React, com uma pitada de estilo através do Styled Components. Além disso, tenho experiência em desenvolvimento de APIs, criando CRUDs eficientes com Express e Fastify.</p>
 
+Visite meu portifólio: https://danielbarbosadev.vercel.app
+
 ### Tecnologias e Ferramentas ⚡
 <div>
 
