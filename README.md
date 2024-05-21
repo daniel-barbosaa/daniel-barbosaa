@@ -10,8 +10,10 @@ Portifólio: https://danielbarbosadev.vercel.app
 ### Tecnologias e Ferramentas ⚡
 <div>
 
-- Javascript
-- React
+- Javascript / Typescript
+- Reactjs
+- Nextjs
+- Nodejs
 - Styled Components
 - Material UI
  <br>
