@@ -3,7 +3,7 @@
 </h2>
 
 
-<p> <strong>Desenvolvedor front-end</strong> apaixonado por criar experiências web incríveis usando JavaScript e React, com uma pitada de estilo através do Styled Components. Além disso, tenho experiência em desenvolvimento de APIs, criando CRUDs eficientes com Express e Fastify.</p>
+<p> <strong>Desenvolvedor front-end</strong> apaixonado por criar experiências web incríveis usando JavaScript / Typescript , Nextjs e Reactjs.
 
 Portifólio: https://danielbarbosadev.vercel.app
 
@@ -15,6 +15,7 @@ Portifólio: https://danielbarbosadev.vercel.app
 - Nextjs
 - Nodejs
 - Styled Components
+- Sass
 - Material UI
  <br>
 
