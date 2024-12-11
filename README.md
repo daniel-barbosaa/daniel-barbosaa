@@ -3,7 +3,7 @@
 </h2>
 
 
-<p> Sou <strong>Desenvolvedor front-end</strong> com experiência em criar interfaces consistentes e funcionais. Sempre priorizo organização e escalabilidade, construindo componentes reutilizáveis que otimizam o desenvolvimento e a experiência do usuário. Meu objetivo é sempre conectar as necessidades do design com a execução técnica, contribuindo para projetos bem estruturados e de fácil manutenção. Acredito que pequenos detalhes, quando bem alinhados, constroem produtos digitais que fazem a diferença. </p>
+<p> Sou <strong>Desenvolvedor front-end</strong>, meu trabalho é criar interfaces consistentes e funcionais. Sempre priorizo organização e escalabilidade, construindo componentes reutilizáveis que otimizam o desenvolvimento e a experiência do usuário. Meu objetivo é sempre conectar as necessidades do design com a execução técnica, contribuindo para projetos bem estruturados e de fácil manutenção. Acredito que pequenos detalhes, quando bem alinhados, constroem produtos digitais que fazem a diferença. </p>
 
 <a href="https://danielbarbosa.vercel.app" target="_blank" rel="noopener noreferrer"><strong>danielbarbosa.com</strong></a>
 
