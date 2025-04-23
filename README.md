@@ -11,9 +11,9 @@
 <div>
 
 - Javascript / Typescript
-- Reactjs
-- Nextjs
-- Nodejs
+- React.js
+- Next.js
+- Node.js
 
 <br/>
   <div align="left">
