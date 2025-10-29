@@ -3,7 +3,9 @@
 </h2>
 
 
-<p> Sou <strong>Desenvolvedor front-end</strong>, meu trabalho é criar interfaces consistentes e funcionais. Sempre priorizo organização e escalabilidade, construindo componentes reutilizáveis que otimizam o desenvolvimento e a experiência do usuário. Meu objetivo é sempre conectar as necessidades do design com a execução técnica, contribuindo para projetos bem estruturados e de fácil manutenção. Acredito que pequenos detalhes, quando bem alinhados, constroem produtos digitais que fazem a diferença. </p>
+<p>Desenvolvedor front-end com foco em criar interfaces funcionais, acessíveis e escaláveis, utilizando tecnologias como React.js, Next.js e TypeScript. Atualmente, atuo em um projeto ágil com sprints semanais, participando ativamente de decisões técnicas e entregando componentes reutilizáveis alinhados ao design system, sempre aplicando boas práticas de código limpo.
+
+Embora meu foco principal seja o front-end, também possuo conhecimentos em back-end, com experiência em Node.js, Nest.js, Express.js e bancos de dados PostgreSQL, MySQL e MongoDB. </p>
 
 <a href="https://danielbarbosa.vercel.app" target="_blank" rel="noopener noreferrer"><strong>danielbarbosa.com</strong></a>
 
